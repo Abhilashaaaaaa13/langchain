@@ -1,0 +1,13 @@
+# Virtual Environment folder - This is often large and system-specific
+venv/
+.venv/
+
+# Environment variables file - This contains secrets and API keys
+.env
+
+# Python cache files - These are generated automatically
+__pycache__/
+*.pyc
+
+# Optional but good practice for VS Code users
+.vscode/
